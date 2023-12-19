@@ -12,7 +12,6 @@ class Main{
     int totalM = m2-m1;
     
 
-    
     if (h1 <  h2){
       
 
